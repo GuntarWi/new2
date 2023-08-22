@@ -1,0 +1,142 @@
+.container{
+    position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+    height: 550px;
+    width: 550px;
+}
+
+.roulette-container{
+    margin: auto;
+    height: 370px;
+    width: 370px;
+}
+
+#myChart {
+    background: url("../1.png") no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+    height: 370px;
+    width: 370px;
+
+  }
+
+
+  .idround{
+        text-align: center;
+        height: 70px;
+  }
+  
+  
+.container-2{
+    position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+
+}
+
+
+
+#RouletteLayout {
+    background: url("../layout3.png") no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+
+  
+
+  }
+
+
+  .show{
+    
+  }
+
+  .hide{
+    display: none;
+  }
+
+  .mode-btn{
+    display: inline-block;
+    margin-right: 0.5em;
+  }
+
+  .form-check {
+    display: inline-block;
+    margin-bottom: -3px;
+  }
+
+  .switch-button{
+margin-left: 2%;
+margin-top: 2%;
+font-size: 20px;
+text-transform: uppercase;
+
+  }
+
+  .verssion{
+    float: right;
+    color: lightgrey;
+  }
+
+
+.break-countter > .count-cnt {
+  display: inline-block;
+  margin-left: 2%;
+margin-top: 2%;
+font-size: 15px;
+text-transform: uppercase;
+}
+
+.count-cnt > p {
+  display: inline-block;
+}
+
+.break-countter{
+  margin: auto;
+  width: 35%;
+  padding: 10px;
+  
+}
+
+
+  .container-3{
+    position: fixed;
+    top: 63%;
+    left: 38%;
+  }
+
+.clipboardImage {
+    display: inline;
+  }
+
+  .container-3{
+    position: relative;
+    left: 0%;
+    top: 60%;
+
+  }
+
+  .sreenshot{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+
+  .game-examples{
+    height: 330px;
+    width: 2050px;
+     overflow: visible;
+
+  }
+
+  .control-btn{
+    padding: 30px;
+    margin-left: 10px;
+  }
+
+#download{
+  text-decoration: none;
+  color: white;
+}
